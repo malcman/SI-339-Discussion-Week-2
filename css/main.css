@@ -1,0 +1,15 @@
+body {
+	background: #ddd;
+	padding: 0;
+	margin: 0;
+	height: 100vh;
+}
+h1{
+	font-family: "Source Sans Pro", Calibri, Arial, sans-serif;
+	margin: 0;
+	text-align: center;
+	/*spacing between each line of text
+	to make vertical, give same value of parent*/
+	line-height: 100vh;
+	font-weight: 600;
+}
